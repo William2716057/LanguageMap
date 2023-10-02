@@ -21,3 +21,6 @@ To customize the data or markers, you can modify the languages2.csv file and adj
 
 Data Source
 The language data is loaded from a CSV file named languages2.csv. You can replace this file with your own dataset, following the same format (latitude, longitude, language name, etc.).
+
+
+![LanguageMap](https://github.com/William2716057/LanguageMap/assets/77903649/d9af0982-dfd6-45c5-b031-7ed487dadc17)
