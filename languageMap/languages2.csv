@@ -308,8 +308,8 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 216,,sik,Sika,,,-8.7,122.25,1
 218,,sgs,Songish,,,48.45,-123.333333333,1
 219,,soo,Sooke,,,48.3333333333,-123.75,1
-220,,spc,Spanish (Canary Islands),,,28,-15.5833333333,1
-221,,swv,Swedish (Västerbotten),,,64.25,19.75,1
+220,,spc,Spanish (Canary Islands),,,28,-15.5833333333,1, https://www.youtube.com/watch?v=NIJHF6kj60k&ab_channel=Antena3Canarias
+221,,swv,Swedish (Västerbotten),,,64.25,19.75,1, https://www.youtube.com/watch?v=wJHpvuSbD3I&ab_channel=K%C3%B6ket
 217,,sry,Siraya,,,23,120.25,1
 224,,tsp,Tamil (Spoken),,,11,78,1
 225,,ttb,Tatar (Baraba),,,55.3333333333,78.3333333333,1
