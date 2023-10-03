@@ -1,7 +1,7 @@
 pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 353,,ktz,Kati (in Afghanistan),,,35.5,70,1
-616,,wgl,Waigali,,,35,71.25,1
-1417,,pra,Prasuni,,,35.5,71,1
+616,,wgl,Waigali,,,35,71.25,1, https://www.youtube.com/watch?v=OET2Stl8cB0&ab_channel=Katartizo
+1417,,pra,Prasuni,,,35.5,71,1, https://www.youtube.com/watch?v=spl1ug2zPTA&t=46s&ab_channel=GoodNewsinEveryLanguage
 1175,,kdw,Kadiwéu,,,-20,-57,1
 2677,,mcv,Mocoví,,,-28,-60.5,1
 1626,,tob,Toba,,,-26.5,-59,1
@@ -96,7 +96,7 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 1279,,tok,Tarok,,,9,10.0833333333,1
 1350,,crp,Carapana,,,0.833333333333,-70.75,1
 1351,,dam,Damana,,,11,-73.5,1
-1428,,tpi,Tok Pisin,,,-9.5,147.166666667,1
+1428,,tpi,Tok Pisin,,,-9.5,147.166666667,1, https://www.youtube.com/watch?v=YleLDA2avgg&ab_channel=ILoveLanguages%21
 1429,,tou,Southern Toussian,,,11,-4.66666666667,1
 1430,,tgh,Tuareg (Ghat),,,25,10.1666666667,1
 1431,,tnk,Tungak,,,-2.55,150.25,1
@@ -2140,7 +2140,7 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 2284,,kty,Khanty,,,65,65,1
 2285,,mym,Malayalam,,,10,76.5,1
 2286,,tel,Telugu,,,16,79,1
-2287,,ykt,Yakut,,,62,130,1
+2287,,ykt,Yakut,,,62,130,1, https://www.youtube.com/watch?v=5sybAkpmNUE&ab_channel=ILoveLanguages%21
 2288,,awt,Awtuw,,,-3.58333333333,142,1
 2289,,klm,Klamath,,,42.5,-121.5,1
 2290,,nep,Nepali,,,28,85,1
@@ -2204,7 +2204,7 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 2353,,lit,Lithuanian,,,55,24,1
 2354,,ood,O'odham,,,32,-112,1
 2355,,rom,Romanian,,,46,25,1
-2356,,tml,Tamil,,,11,78.5,1
+2356,,tml,Tamil,,,11,78.5,1, https://www.youtube.com/watch?v=fM3ZIiwiZRU&ab_channel=ILoveLanguages%21
 2357,,bul,Bulgarian,,,42.5,25,1
 2358,,lah,Lahu,,,20,98.1666666667,1
 2359,,yuc,Yuchi,,,35.75,-86.75,1
@@ -2380,7 +2380,7 @@ pk,jsondata,id,name,description,markup_description,latitude,longitude,version
 2541,,lez,Lezgian,,,41.6666666667,47.8333333333,1
 2542,,jpn,Japanese,,,37,140,1
 2543,,mnd,Mandarin,,,34,110,1
-2544,,hun,Hungarian,,,47,20,1
+2544,,hun,Hungarian,,,47,20,1, https://www.youtube.com/watch?v=ii6F6LDu3Y0&ab_channel=ILoveLanguages%21
 2546,,fin,Finnish,,,62,25,1
 2547,,rus,Russian,,,56,38,1
 2548,,spa,Spanish,,,40,-4,1
